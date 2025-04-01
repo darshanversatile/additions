@@ -1,7 +1,7 @@
 name: additions
-description: "A new Flutter project."
+description: "A addition project."
 version: 0.0.1
-homepage:
+homepage: https://github.com/darshanversatile/additions
 
 environment:
   sdk: ^3.5.3
